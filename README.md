@@ -24,6 +24,8 @@
 name: Sushma Kenwadkar
 role: Engineering Student
 location: Pune, India
+skills:C++,Python,HTML,CSS
+
 ```
 
 - 📫 How to reach me: **sushmakenwadkar@gmail.com**
